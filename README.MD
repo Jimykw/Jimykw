@@ -15,9 +15,9 @@ class Jimy:
     def __init__(self):
         self.name        = "Jimy Kaua dos Santos Silva"
         self.role        = "Back-end Developer"
-        self.focus       = ["Java", "Spring Boot", "Python", "Django"]
+        self.focus       = ["Java", "Spring Boot", "Python", "Django", "C#", ".NET", "IA"]
         self.learning    = ["DevOps", "Cloud"]
-        self.interests   = ["APIs REST", "Arquitetura de sistemas", "Open Source"]
+        self.interests   = ["APIs REST", "Metodologias Ageis", "Open Source"]
 
     def say_hi(self):
         print("Obrigado por visitar meu perfil! Vamos construir algo incrível juntos 🚀")
