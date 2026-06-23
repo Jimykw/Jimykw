@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Jimy%20Kaua&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Back-end%20Developer%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20Python%20%7C%20Django&descAlignY=55&descSize=16"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Jimy%20Kaua&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Back-end%20Developer%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20FastAPI%20%7C%20&descAlignY=55&descSize=16"/>
 
 <div align="center">
 
-[
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Desenvolvedor+Back-end+%F0%9F%90%8D;Apaixonado+por+Java+%26+APIs;Explorando+o+mundo+%F0%9F%9A%80;Sempre+aprendendo%2C+sempre+evoluindo+%E2%9C%A8)](https://git.io/typing-svg)
 
 </div>
 
