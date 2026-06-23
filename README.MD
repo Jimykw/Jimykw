@@ -44,30 +44,28 @@ me.say_hi()
 
 ***
 
-## 🛠️ Tech Stack
-
+🛠️ Tech Stack
 <div align="center">
 
-**Back-end**
+Back-end
 
 <img src="https://devicon-website.vercel.app/api/java/original.svg" width="50px"> </img>
 <img src="https://devicon-website.vercel.app/api/spring/original.svg" width="45px"></img>
-<img src="https://devicon-website.vercel.app/api/django/plain.svg" width="45px"></img>
+<img src="https://devicon-website.vercel.app/api/csharp/original.svg" width="50px"></img>
 <img src="https://devicon-website.vercel.app/api/dot-net/original.svg" width="45px"></img>
+<img src="https://devicon-website.vercel.app/api/python/original.svg" width="50px"></img>
+<img src="https://devicon-website.vercel.app/api/django/plain.svg" width="45px"></img>
 
-
-**Front-end**
-
-<img src="https://devicon-website.vercel.app/api/html5/original.svg" width="50px"></img>
-<img src="https://devicon-website.vercel.app/api/css3/original-wordmark.svg" width="60px"></img>
-<img src="https://devicon-website.vercel.app/api/javascript/original.svg" width="50px"></img>
-
-**Banco de dados & DevOps**
+Banco de dados
 
 <img src="https://devicon-website.vercel.app/api/postgresql/original-wordmark.svg" width="60px"></img>
 <img src="https://devicon-website.vercel.app/api/sqlite/original.svg" width="50px"></img>
-<img src="https://devicon-website.vercel.app/api/git/original.svg" width="50px"></img>
 
+Ferramentas
+
+<img src="https://devicon-website.vercel.app/api/git/original.svg" width="50px"></img>
+<img src="https://devicon-website.vercel.app/api/github/original.svg" width="50px"></img>
+<img src="https://devicon-website.vercel.app/api/vscode/original.svg" width="50px"></img>
 
 </div>
 
@@ -96,11 +94,11 @@ me.say_hi()
   </picture>
 </div>
 
-***
+---
 
 <div align="center">
 
-
+![Profile views](https://komarev.com/ghpvc/?username=eduardonunesfvm&color=A855F7&style=for-the-badge&label=Visitas+ao+perfil)
 
 </div>
 
