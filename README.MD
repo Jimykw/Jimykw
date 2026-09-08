@@ -15,7 +15,7 @@ class Jimy:
     def __init__(self):
         self.name        = "Jimy Kaua dos Santos Silva"
         self.role        = "Back-end Developer"
-        self.focus       = ["Java", "Spring Boot", "Python", "Django", "C#", ".NET", "IA"]
+        self.focus       = ["Java", "Spring Boot", "Python", "Django", "IA"]
         self.learning    = ["DevOps", "Cloud"]
         self.interests   = ["APIs REST", "Metodologias Ageis", "Open Source"]
 
