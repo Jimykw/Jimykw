@@ -20,7 +20,7 @@ I build scalable, well-tested backend applications with Java and the Spring ecos
 
 **DevOps, Cloud and Tools**
 
-![DevOps](https://skillicons.dev/icons?i=docker,git,github,gitlab,aws,gcp,maven,jira,postman)
+![DevOps](https://skillicons.dev/icons?i=docker,git,github,gitlab,aws,gcp,maven,postman)
 
 **Quality and Practices:** JUnit 5 · Mockito · Clean Architecture · SOLID · Design Patterns · CI/CD · Scrum/Kanban · Swagger/OpenAPI · JWT
 
