@@ -1,10 +1,10 @@
-### Hello! I'm Jimy Kauã!
+### Olá! Eu sou o Jimy Kauã!
 
-`Java Backend Developer · Spring Boot · REST APIs · Student of Systems Analysis and Development @UNIT`
+`Desenvolvedor Java Backend · Spring Boot · APIs REST · Estudante de Análise e Desenvolvimento de Sistemas @UNIT`
 
-I build scalable, well-tested backend applications with Java and the Spring ecosystem, applying OOP, SOLID and Clean Architecture to real business rules (financial services in particular).
+Construo aplicações backend escaláveis e bem testadas com Java e o ecossistema Spring, aplicando POO, SOLID e Clean Architecture em regras de negócio reais (principalmente no setor financeiro).
 
-### Skills and Tools
+### Skills e Ferramentas
 
 **Backend**
 
@@ -14,36 +14,36 @@ I build scalable, well-tested backend applications with Java and the Spring ecos
 
 ![Frontend](https://skillicons.dev/icons?i=ts,js,react)
 
-**Databases and Cache**
+**Bancos de Dados e Cache**
 
 ![Databases](https://skillicons.dev/icons?i=postgres,mysql,redis)
 
-**DevOps, Cloud and Tools**
+**DevOps, Nuvem e Ferramentas**
 
 ![DevOps](https://skillicons.dev/icons?i=docker,git,github,gitlab,aws,gcp,maven,postman)
 
-**Quality and Practices:** JUnit 5 · Mockito · Clean Architecture · SOLID · Design Patterns · CI/CD · Scrum/Kanban · Swagger/OpenAPI · JWT
+**Qualidade e Práticas:** JUnit 5 · Mockito · Clean Architecture · SOLID · Design Patterns · CI/CD · Scrum/Kanban · Swagger/OpenAPI · JWT
 
-### Featured Projects
+### Projetos em Destaque
 
-**[Digital Bank REST API](https://github.com/Jimykw/digital-banking-api)**
-Digital banking core with checking/savings accounts, internal transfers, PIX, TED with fixed fees and administrative account blocking. Paginated statements cached with Redis.
+**[API REST de Banco Digital](https://github.com/Jimykw/digital-banking-api)**
+Core bancário digital com contas corrente e poupança, transferências internas, PIX, TED com tarifação fixa e bloqueio administrativo de contas. Extratos paginados com cache em Redis.
 `Java 21` `Spring Boot` `PostgreSQL` `Redis` `Docker` `JUnit 5` `Mockito` `Swagger`
 
-**[Scheduling and Management Platform](https://github.com/Jimykw/Barber)**
-Full stack app for appointments and services, with RBAC (client, professional, admin) via JWT and automatic WhatsApp Cloud API notifications.
+**[Plataforma Web de Agendamento e Gestão](https://github.com/Jimykw/Barber)**
+Aplicação full stack para gestão de atendimentos e serviços, com controle de acesso (RBAC) para cliente, profissional e administrador via JWT e notificações automáticas pela WhatsApp Cloud API.
 `React` `TypeScript` `Python` `Django REST Framework` `Docker` `JWT`
 
-**[Job Fit Bot](https://github.com/Jimykw/JobFit)** 🚧 *in development*
-Tool that scores how well your skills match a job posting. Requirements are split into mandatory and desirable (weighted 70/30), with input normalization (trimming, case-insensitive matching, duplicate removal). Next step: using AI to extract requirements from real job postings.
-`C#` `.NET` `LINQ` `Git` `AI`
+**[Job Fit Bot](https://github.com/Jimykw/JobFit)** 🚧 *em desenvolvimento*
+Ferramenta que calcula o quanto suas skills combinam com uma vaga. Os requisitos são separados em obrigatórios e desejáveis (peso 70/30), com tratamento de entrada (remoção de espaços, comparação sem diferenciar maiúsculas e minúsculas e remoção de duplicados). Próximo passo: usar IA para extrair requisitos de vagas reais.
+`C#` `.NET` `LINQ` `Git` `IA`
 
-### Certifications
+### Certificações
 
 - Google Cloud Computing Foundations: Universidade Tiradentes
 - Cisco Cybersecurity: Instituto Federal de Sergipe
 
-### Reach me
+### Contato
 
 - 💼 [LinkedIn](https://linkedin.com/in/jimydev/)
 - ✉️ [kwjimy@gmail.com](mailto:kwjimy@gmail.com)
